@@ -5,7 +5,7 @@
 
 <div align="center">
  
-  <img alt="Nexter" src="">
+  <img alt="Nexter" src="https://github.com/arthurhl/Nexter/blob/master/img/3%20Device%20MashupNexter.png?raw=true">
   
   
   </div>
